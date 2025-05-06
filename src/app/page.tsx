@@ -1,4 +1,4 @@
-import SignatureGenerator from './app/page'; // <-- ESSA LINHA PRECISA ESTAR AQUI!
+
 import './App.css'; 
 
 function App() {
