@@ -1,10 +1,9 @@
+import { useState, useEffect, useRef } from 'react';
 
-import './App.css'; 
+const SignatureGenerator = () => {
+  // TODO O CÓDIGO DO SEU GERADOR DE ASSINATURAS AQUI
+  // (com os useState para nome, cargo, telefone, etc.,
+  // a função handleCopyToClipboard, e o JSX do formulário e da visualização)
+};
 
-function App() {
-  return (
-    <SignatureGenerator />
-  );
-}
-
-export default App;
+export default SignatureGenerator;
